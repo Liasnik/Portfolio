@@ -1,6 +1,4 @@
 import './style.css'
-
-import vk from './../../img/icons/vk.svg'
 import instagram from './../../img/icons/instagram.svg'
 import twitter from './../../img/icons/twitter.svg'
 import linkedIn from './../../img/icons/linkedIn.svg'
@@ -14,11 +12,6 @@ const Footer = () => {
           <ul className="social">
             <li className="social__item">
               <a href="#!">
-                <img src={vk} alt="Link" />
-              </a>
-            </li>
-            <li className="social__item">
-              <a href="#!">
                 <img src={instagram} alt="Link" />
               </a>
             </li>
@@ -28,22 +21,26 @@ const Footer = () => {
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a
+                href="https://github.com/Liasnik"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={gitHub} alt="Link" />
               </a>
             </li>
             <li className="social__item">
               <a
+                href="https://www.linkedin.com/in/alexander-liasnik/"
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/alexander-liasnik/"
               >
                 <img src={linkedIn} alt="Link" />
               </a>
             </li>
           </ul>
           <div className="copyright">
-            <p>© 2022 frontend-dev.com</p>
+            <p>© 2023 Portfolio by Liasnik. ALL RIGHTS RESERVED.</p>
           </div>
         </div>
       </div>

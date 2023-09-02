@@ -7,8 +7,8 @@ import project02Big from './../img/projects/React-Tutorial.png'
 import project03 from './../img/projects/Sorter-small.png'
 import project03Big from './../img/projects/Sorter.png'
 
-import project04 from './../img/projects/04.jpg'
-import project04Big from './../img/projects/04-big.jpg'
+import project04 from './../img/projects/React_3.png'
+import project04Big from './../img/projects/React-3.png'
 
 import project05 from './../img/projects/05.jpg'
 import project05Big from './../img/projects/05-big.jpg'
@@ -39,23 +39,24 @@ const projects = [
     gitHubLink: 'https://liasnik.github.io/Sorter',
   },
   {
-    title: 'Dating app',
+    title: 'Todo App',
+    img: project06,
+    imgBig: project06Big,
+    skills: 'React, Redux Toolkit',
+    gitHubLink: 'https://liasnik.github.io/Todo-App',
+  },
+  {
+    title: 'React Tutorial path 3 Managing State',
     img: project04,
     imgBig: project04Big,
-    skills: 'React Native',
+    skills: 'React',
+    gitHubLink: 'https://liasnik.github.io/React-3-Managing-State',
   },
   {
     title: 'Landing',
     img: project05,
     imgBig: project05Big,
     skills: 'HTML, SCSS, JS',
-  },
-  {
-    title: 'Todo App',
-    img: project06,
-    imgBig: project06Big,
-    skills: 'React, Redux Toolkit',
-    gitHubLink: 'https://liasnik.github.io/Todo-App',
   },
 ]
 

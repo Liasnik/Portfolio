@@ -15,10 +15,11 @@
   --nav-text: var(--white);
 
   /* Header */
-  --header-bg: var(--black);
-  --header-text: var(--white);
+  --header-bg: var(--white);
+  --header-text: var(--black);
 
   /* Footer */
+
   --footer-bg: var(--black);
   --footer-text: var(--white);
 
@@ -43,6 +44,10 @@
   --project-card-bg: var(--black);
   --project-card-text: var(--white);
   --box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.8);
+
+  /* Header */
+  --header-bg: var(--black);
+  --header-text: var(--white);
 }
 
 html,

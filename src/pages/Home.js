@@ -10,18 +10,15 @@ const Home = () => {
             <li className="content-list__item">
               <h3 className="title-3">
                 {' '}
-                JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, SCSS, NPM,
-                BootStrap, MaterialUI, TailwindCSS
+                React, NextJS, HTML, CSS, SCSS, JavaScript, TypeScript
               </h3>
-              {/* <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-                BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
-              </p> */}
             </li>
-            {/* <li className="content-list__item">
-							<h2 className="title-2">Backend</h2>
-							<p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
-						</li> */}
+            <li className="content-list__item">
+              <h3 className="title-3">
+                {' '}
+                ReduxToolkit, RTK-Query, MaterialUI, Git, GitHub
+              </h3>
+            </li>
           </ul>
         </div>
       </main>

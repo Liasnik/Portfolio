@@ -7,49 +7,40 @@ const Navbar = () => {
   const normalLink = 'nav-list__link'
 
   return (
-    <nav className="nav">
-      <div className="container">
-        <div className="nav-row">
-          <NavLink to="/" className="logo">
-            <strong>Alexander Liasnik</strong> Software Engineer
-          </NavLink>
+    <nav className="nav ">
+      <div className="nav-row container">
+        <NavLink to="/Portfolio" className="logo">
+          <strong>Alexander Liasnik</strong> <i>Software Engineer</i>
+        </NavLink>
 
-          <BtnDarkMode />
+        <ul className="nav-list">
+          <li className="nav-list__item">
+            <NavLink
+              to="/Portfolio"
+              className={({ isActive }) => (isActive ? activeLink : normalLink)}
+            >
+              Home
+            </NavLink>
+          </li>
+          <li className="nav-list__item">
+            <NavLink
+              to="/Portfolio/projects"
+              className={({ isActive }) => (isActive ? activeLink : normalLink)}
+            >
+              Projects
+            </NavLink>
+          </li>
+          <li className="nav-list__item">
+            <NavLink
+              to="/Portfolio/contacts"
+              className={({ isActive }) => (isActive ? activeLink : normalLink)}
+            >
+              Contacts
+            </NavLink>
+          </li>
+        </ul>
 
-          <ul className="nav-list">
-            <li className="nav-list__item">
-              <NavLink
-                to="/"
-                className={({ isActive }) =>
-                  isActive ? activeLink : normalLink
-                }
-              >
-                Home
-              </NavLink>
-            </li>
-
-            <li className="nav-list__item">
-              <NavLink
-                to="/projects"
-                className={({ isActive }) =>
-                  isActive ? activeLink : normalLink
-                }
-              >
-                Projects
-              </NavLink>
-            </li>
-            <li className="nav-list__item">
-              <NavLink
-                to="/contacts"
-                className={({ isActive }) =>
-                  isActive ? activeLink : normalLink
-                }
-              >
-                Contacts
-              </NavLink>
-            </li>
-          </ul>
-        </div>
+        <BtnDarkMode />
       </div>
     </nav>
   )
