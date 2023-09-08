@@ -52,9 +52,10 @@
 
 .nav-list__link--active {
   position: relative;
+  color: var(--accent);
 }
 
-.nav-list__link--active::before {
+/* .nav-list__link--active::before {
   content: '';
 
   position: absolute;
@@ -65,4 +66,23 @@
   height: 2px;
   width: 100%;
   background-color: var(--accent);
+} */
+
+@media (max-width: 620px) {
+  .nav-row {
+    justify-content: space-between;
+  }
 }
+@media (max-width: 376px) {
+  .nav-row {
+    column-gap: 17px;
+  }
+
+  .nav-list {
+    column-gap: 18px;
+  }
+}
+
+/* .active {
+  color: var(--accent);
+} */

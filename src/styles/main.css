@@ -116,7 +116,7 @@ body {
 
 /* Btn */
 
-.btn {
+.button {
   display: inline-block;
   height: 48px;
   padding: 12px 28px;
@@ -131,11 +131,11 @@ body {
   transition: opacity 0.2s ease-in;
 }
 
-.btn:hover {
+.button:hover {
   opacity: 0.8;
 }
 
-.btn:active {
+.button:active {
   position: relative;
   top: 1px;
 }
