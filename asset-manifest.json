@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.797ab860.css",
-    "main.js": "/Portfolio/static/js/main.e1cc31b0.js",
+    "main.css": "/Portfolio/static/css/main.46a623a7.css",
+    "main.js": "/Portfolio/static/js/main.68126477.js",
     "static/js/787.8b11e2ca.chunk.js": "/Portfolio/static/js/787.8b11e2ca.chunk.js",
     "static/media/05-big.jpg": "/Portfolio/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
     "static/media/Silver-Desire.png": "/Portfolio/static/media/Silver-Desire.fd908eea2690b7d330c9.png",
@@ -13,7 +13,6 @@
     "static/media/05.jpg": "/Portfolio/static/media/05.497e1d12eb46a0b52271.jpg",
     "static/media/Sorter.png": "/Portfolio/static/media/Sorter.6447ac4d2bccdedb6191.png",
     "static/media/Sorter-small.png": "/Portfolio/static/media/Sorter-small.de3fc838134f9ebd018d.png",
-    "static/media/header-bg.png": "/Portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/Todo-app.png": "/Portfolio/static/media/Todo-app.28cfc738d752cbb4b13d.png",
     "static/media/sun.svg": "/Portfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
     "static/media/moon.svg": "/Portfolio/static/media/moon.312bed9230c94183d589bcc499993093.svg",
@@ -23,12 +22,12 @@
     "static/media/twitter.svg": "/Portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
     "static/media/linkedIn.svg": "/Portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/Portfolio/index.html",
-    "main.797ab860.css.map": "/Portfolio/static/css/main.797ab860.css.map",
-    "main.e1cc31b0.js.map": "/Portfolio/static/js/main.e1cc31b0.js.map",
+    "main.46a623a7.css.map": "/Portfolio/static/css/main.46a623a7.css.map",
+    "main.68126477.js.map": "/Portfolio/static/js/main.68126477.js.map",
     "787.8b11e2ca.chunk.js.map": "/Portfolio/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.797ab860.css",
-    "static/js/main.e1cc31b0.js"
+    "static/css/main.46a623a7.css",
+    "static/js/main.68126477.js"
   ]
 }
