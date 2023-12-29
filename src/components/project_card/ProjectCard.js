@@ -1,5 +1,5 @@
-import { NavLink } from 'react-router-dom'
-import './project_card.css'
+import { NavLink } from "react-router-dom";
+import "./project_card.css";
 
 const ProjectCard = ({ title, img, index }) => {
   return (
@@ -9,7 +9,7 @@ const ProjectCard = ({ title, img, index }) => {
         <h3 className="project__title">{title}</h3>
       </li>
     </NavLink>
-  )
-}
+  );
+};
 
-export default ProjectCard
+export default ProjectCard;

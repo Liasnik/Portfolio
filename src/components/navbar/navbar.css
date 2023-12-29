@@ -1,5 +1,3 @@
-/* Nav */
-
 .nav {
   padding: 20px 0;
   background-color: var(--nav-bg);
@@ -55,19 +53,6 @@
   color: var(--accent);
 }
 
-/* .nav-list__link--active::before {
-  content: '';
-
-  position: absolute;
-  left: 0;
-  top: 100%;
-
-  display: block;
-  height: 2px;
-  width: 100%;
-  background-color: var(--accent);
-} */
-
 @media (max-width: 620px) {
   .nav-row {
     justify-content: space-between;
@@ -82,7 +67,3 @@
     column-gap: 18px;
   }
 }
-
-/* .active {
-  color: var(--accent);
-} */

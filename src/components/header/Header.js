@@ -1,4 +1,4 @@
-import './style.css'
+import "./header.css";
 
 const Header = () => {
   return (
@@ -10,15 +10,13 @@ const Header = () => {
           </strong>
           <br />I am a frontend developer
         </h1>
-        <div className="header__text">
-          {/* <p>with passion for learning and creating.</p> */}
-        </div>
-        <a href="#!" className="button">
+        <div className="header__text"></div>
+        {/* <a href="#!" className="button">
           Download CV
-        </a>
+        </a> */}
       </div>
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

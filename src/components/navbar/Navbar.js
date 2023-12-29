@@ -10,7 +10,7 @@ const Navbar = () => {
     <nav className="nav ">
       <div className="nav-row container">
         <div className="logo">
-          <strong>Alexander Liasnik</strong> <i>Software Engineer</i>
+          <strong>Alexander Liasnik</strong>
         </div>
 
         <ButtonDarkMode />

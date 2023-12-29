@@ -2,29 +2,29 @@ const Contacts = () => {
   return (
     <main className="section">
       <div className="container">
-        <h1 className="title-1">Contacts</h1>
-
         <ul className="content-list">
           <li className="content-list__item">
             <h2 className="title-2">Location</h2>
             <p>Kyiv, Ukraine</p>
           </li>
           <li className="content-list__item">
-            <h2 className="title-2">Telegram / WhatsApp</h2>
+            <h2 className="title-2">Telegram / Viber</h2>
             <p>
-              <a href="tel:+79051234567">+38 (050) 942-62-47</a>
+              <a href="tel:+380509426247">+38 (050) 942-62-47</a>
             </p>
           </li>
           <li className="content-list__item">
             <h2 className="title-2">Email</h2>
             <p>
-              <a href="mailto:webdev@protonmail.com">9426247@gmail.com</a>
+              <a href="mailto:alexanderliasnik@gmail.com">
+                AlexanderLiasnik@gmail.com
+              </a>
             </p>
           </li>
         </ul>
       </div>
     </main>
-  )
-}
+  );
+};
 
-export default Contacts
+export default Contacts;
