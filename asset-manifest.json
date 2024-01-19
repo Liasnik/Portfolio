@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e2a041ec.css",
-    "main.js": "/Portfolio/static/js/main.d79920ba.js",
+    "main.js": "/Portfolio/static/js/main.a232bac7.js",
     "static/js/787.8b11e2ca.chunk.js": "/Portfolio/static/js/787.8b11e2ca.chunk.js",
     "static/media/Tik-Tok1.png": "/Portfolio/static/media/Tik-Tok1.8e9df36ece68d6375159.png",
     "static/media/Svitanok2.png": "/Portfolio/static/media/Svitanok2.65f5438d7a7740be95d8.png",
+    "static/media/UkrbudDrobmash.png": "/Portfolio/static/media/UkrbudDrobmash.f539bdca0b9aa18f33c3.png",
     "static/media/Wether-1188.png": "/Portfolio/static/media/Wether-1188.7c345ae4300d5303d3a6.png",
     "static/media/Svitanok-700.png": "/Portfolio/static/media/Svitanok-700.eb4bac84c7395bf066e1.png",
     "static/media/Tik-Tok1-700.png": "/Portfolio/static/media/Tik-Tok1-700.05398da3a6271f315de9.png",
@@ -12,7 +13,6 @@
     "static/media/ReactTutorial4-2.png": "/Portfolio/static/media/ReactTutorial4-2.d7faad00fcdb992e19ea.png",
     "static/media/UBDM 6.png": "/Portfolio/static/media/UBDM 6.aa0d73b67683b13549bd.png",
     "static/media/Countries1188.png": "/Portfolio/static/media/Countries1188.7006a93a710fa0b85101.png",
-    "static/media/Ukrbud700px.png": "/Portfolio/static/media/Ukrbud700px.86db329b3a515a9821e6.png",
     "static/media/React-3.png": "/Portfolio/static/media/React-3.e3dad2d531ce39d06a9b.png",
     "static/media/Countries-700.png": "/Portfolio/static/media/Countries-700.a71ab5aba547dc44fa1c.png",
     "static/media/React3-smal-600.png": "/Portfolio/static/media/React3-smal-600.efd2fae06e024effddd5.png",
@@ -27,11 +27,11 @@
     "static/media/linkedIn.svg": "/Portfolio/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/Portfolio/index.html",
     "main.e2a041ec.css.map": "/Portfolio/static/css/main.e2a041ec.css.map",
-    "main.d79920ba.js.map": "/Portfolio/static/js/main.d79920ba.js.map",
+    "main.a232bac7.js.map": "/Portfolio/static/js/main.a232bac7.js.map",
     "787.8b11e2ca.chunk.js.map": "/Portfolio/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2a041ec.css",
-    "static/js/main.d79920ba.js"
+    "static/js/main.a232bac7.js"
   ]
 }
