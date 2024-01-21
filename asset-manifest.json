@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e2a041ec.css",
-    "main.js": "/Portfolio/static/js/main.a232bac7.js",
+    "main.js": "/Portfolio/static/js/main.110f3a92.js",
     "static/js/787.8b11e2ca.chunk.js": "/Portfolio/static/js/787.8b11e2ca.chunk.js",
+    "static/media/UkrbudDrobmash.png": "/Portfolio/static/media/UkrbudDrobmash.f6deb5329b35335823a7.png",
     "static/media/Tik-Tok1.png": "/Portfolio/static/media/Tik-Tok1.8e9df36ece68d6375159.png",
     "static/media/Svitanok2.png": "/Portfolio/static/media/Svitanok2.65f5438d7a7740be95d8.png",
-    "static/media/UkrbudDrobmash.png": "/Portfolio/static/media/UkrbudDrobmash.f539bdca0b9aa18f33c3.png",
     "static/media/Wether-1188.png": "/Portfolio/static/media/Wether-1188.7c345ae4300d5303d3a6.png",
     "static/media/Svitanok-700.png": "/Portfolio/static/media/Svitanok-700.eb4bac84c7395bf066e1.png",
     "static/media/Tik-Tok1-700.png": "/Portfolio/static/media/Tik-Tok1-700.05398da3a6271f315de9.png",
@@ -27,11 +27,11 @@
     "static/media/linkedIn.svg": "/Portfolio/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/Portfolio/index.html",
     "main.e2a041ec.css.map": "/Portfolio/static/css/main.e2a041ec.css.map",
-    "main.a232bac7.js.map": "/Portfolio/static/js/main.a232bac7.js.map",
+    "main.110f3a92.js.map": "/Portfolio/static/js/main.110f3a92.js.map",
     "787.8b11e2ca.chunk.js.map": "/Portfolio/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2a041ec.css",
-    "static/js/main.a232bac7.js"
+    "static/js/main.110f3a92.js"
   ]
 }
